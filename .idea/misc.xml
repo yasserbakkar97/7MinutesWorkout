@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable/item_circular.xml" value="0.1365" />
+        <entry key="..\:/Users/Yasser/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable/item_ripple.xml" value="0.1365" />
         <entry key="..\:/Users/Yasser/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/layout/activity_main.xml" value="0.2604166666666667" />
       </map>
     </option>
